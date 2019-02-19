@@ -1,0 +1,63 @@
+Variable Name,Category,Type,Linked,
+PAT_ID,Identifier,,,
+Flare_Up,Group,Binary, ,0
+Demo1,Demographics,Binary, ,1
+Demo2,Demographics,Continuous, ,2
+Demo3,Demographics,Continuous, ,3
+Demo4,Demographics,Continuous, ,4
+Demo5,Demographics,Binary, ,5
+Demo6,Demographics,Continuous, ,6
+DisHis1,Disease History,Binary,1,7
+DisHis1Times,Disease History,Continuous,1,8
+DisHis2,Disease History,Binary,2,9
+DisHis2Times,Disease History,Continuous,2,10
+DisHis3,Disease History,Binary,3,11
+DisHis3Times,Disease History,Continuous,3,12
+DisHis4,Disease History,Binary, ,13
+DisHis5,Disease History,Binary, ,14
+DisHis6,Disease History,Continuous, ,15
+DisHis7,Disease History,Binary, ,16
+DisStage1,Disease Stage,Ordered Categorical, ,17
+DisStage2,Disease Stage,Categorical, ,18
+LungFun1,Lung Function,Continuous, ,19
+LungFun10,Lung Function,Continuous, ,20
+LungFun11,Lung Function,Continuous, ,21
+LungFun12,Lung Function,Continuous, ,22
+LungFun13,Lung Function,Continuous, ,23
+LungFun14,Lung Function,Continuous, ,24
+LungFun15,Lung Function,Continuous, ,25
+LungFun16,Lung Function,Continuous, ,26
+LungFun17,Lung Function,Continuous, ,27
+LungFun18,Lung Function,Continuous, ,28
+LungFun19,Lung Function,Binary, ,29
+LungFun2,Lung Function,Continuous, ,30
+LungFun20,Lung Function,Continuous, ,31
+LungFun3,Lung Function,Continuous, ,32
+LungFun4,Lung Function,Continuous, ,33
+LungFun5,Lung Function,Continuous, ,34
+LungFun6,Lung Function,Continuous, ,35
+LungFun7,Lung Function,Continuous, ,36
+LungFun8,Lung Function,Continuous, ,37
+LungFun9,Lung Function,Continuous, ,38
+Dis1,Other lung diseases,Tertiary,4,39
+Dis1Treat,Other lung diseases,Binary,4,40
+Dis2,Other lung diseases,Tertiary,5,41
+Dis2Times,Other lung diseases,Continuous,5,42
+Dis3,Other lung diseases,Tertiary,6,43
+Dis3Times,Other lung diseases,Continuous,6,44
+Dis4,Other lung diseases,Tertiary,7,45
+Dis4Treat,Other lung diseases,Binary,7,46
+Dis5,Other lung diseases,Tertiary,8,47
+Dis5Treat,Other lung diseases,Binary,8,48
+Dis6,Other lung diseases,Tertiary,9,49
+Dis6Treat,Other lung diseases,Binary,9,50
+Dis7,Other lung diseases,Binary,,51
+RespQues1,Respiratory Questionnaire,Continuous, ,52
+ResQues1a,Respiratory Questionnaire,Continuous, ,53
+ResQues1b,Respiratory Questionnaire,Continuous, ,54
+ResQues1c,Respiratory Questionnaire,Continuous, ,55
+ResQues2a,Respiratory Questionnaire,Continuous, ,56
+SmokHis1,Smoking History,Continuous, ,57
+SmokHis2,Smoking History,Continuous, ,58
+SmokHis3,Smoking History,Continuous, ,59
+SmokHis4,Smoking History,Continuous, ,60
